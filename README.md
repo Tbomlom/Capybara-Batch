@@ -30,3 +30,6 @@
 ### -Automatische Speicherfunktion implementieren
 
 ### -Grafische Elemente ergänzen (wenn möglich)
+
+
+# Open Source and free to Download
